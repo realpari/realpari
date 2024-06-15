@@ -1,2 +1,4 @@
-hi, Im number 4th of the SAGD co. , codename r4ype, but i also go by parsa.
-And also someone who brings all sorts of trouble...
+Man, the world sure is beautiful...
+
+
+...when you aren't here
