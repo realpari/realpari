@@ -3,7 +3,7 @@
 <br/>
 
 
-<img src="https://solardrifter.home.blog/wp-content/uploads/2018/06/tumblr_pacu1doHhW1r1xpwxo1_500.gif" height=20 width=100 />
+<img src="https://solardrifter.home.blog/wp-content/uploads/2018/06/tumblr_pacu1doHhW1r1xpwxo1_500.gif" height=20% width=20% />
 
 ## 🛜 Other Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](http://discordapp.com/users/777881392393879553) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pawrsa) 
