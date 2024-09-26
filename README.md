@@ -1,5 +1,5 @@
 
-<mark style="background-color: lightblue">currently</mark> working on npm packages 
+<mark>currently</mark> working on npm packages 
 
 
 ## 🛜 Other Socials:
