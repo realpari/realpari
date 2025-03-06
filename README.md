@@ -8,6 +8,6 @@ Building ✨seamless ,⚡blazing-fast
 <br/>
 interfaces for the World Wide Web. 
 
--find me here [Pawrsa](https://pawrsa.vercel.app/)
+-find me here [parsa](https://pari1.vercel.app/)
 
 
