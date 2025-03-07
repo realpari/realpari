@@ -8,6 +8,6 @@ Building ✨seamless ,⚡blazing-fast
 <br/>
 interfaces for the World Wide Web. 
 
--find me here [parsa](https://pari1.vercel.app/)
+-find me here [parsa](https://pari-dev.web.app/)
 
 
